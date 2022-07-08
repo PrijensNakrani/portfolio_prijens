@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "prijens-nakrani",
+    "prod": "prijens-nakrani"
+  },
+  "targets": {}
+}
